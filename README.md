@@ -220,9 +220,7 @@ DeviceFileEvents
 
 ### ✅ Case Summary:
 
-You've successfully followed the Phantom Hackers’ footprints and exposed their stealthy campaign. From dropper to scheduled task, registry persistence, and even the keylogger—every part of Bubba’s digital fortress was almost lost.
+We've successfully followed the Phantom Hackers’ footprints and exposed their stealthy campaign. From dropper to scheduled task, registry persistence, and even the keylogger—every part of Bubba’s digital fortress was almost lost.
 
 But not today.
 **Mission accomplished. 💼🔍🛡️**
-
-Let me know if you want this converted into a presentation or report template!
